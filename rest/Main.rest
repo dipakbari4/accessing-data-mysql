@@ -1,0 +1,4 @@
+POST http://localhost:8080/demo/add?name=Rohan&email=rohanbari@gmail.com HTTP/1.1
+
+###
+GET http://localhost:8080/demo/all HTTP/1.1
